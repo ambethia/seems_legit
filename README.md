@@ -1,6 +1,6 @@
 # SeemsLegit
 
-TODO: Write a gem description
+Provides enterprise synergy within your application's paradigm.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+1. `require 'seems_legit'`
+2. ???
+3. Profit
 
 ## Contributing
 

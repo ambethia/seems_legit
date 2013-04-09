@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SeemsLegit::VERSION
   spec.authors       = ["Jason L Perry"]
   spec.email         = ["jasper@ambethia.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Yup, seems legit. Ship it!}
+  spec.summary       = %q{Provides enterprise synergy within your application's paradigm.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
